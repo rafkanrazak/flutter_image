@@ -49,6 +49,24 @@ dependencies:
   expansion_tile_card: ^2.0.0
   lottie: ^2.3.2
   quickalert: ^1.0.1
+  introduction_screen: ^3.1.8
+  dio: ^5.1.2
+  dropdown_search: ^5.0.6
+  custom_searchable_dropdown: ^2.1.1
+  animated_icon_button: ^1.0.2
+  animate_icons: ^2.0.0
+  flutter_staggered_animations: ^1.1.1
+  progressive_image: ^2.0.1
+  rive: ^0.11.1
+  image_picker: ^0.8.7+5
+  video_player: ^2.6.1
+  liquid_swipe: ^3.1.0
+  rflutter_alert: ^2.0.7
+  share_plus: ^7.0.2
+  system_alert_window: ^1.2.1
+  status_alert: ^1.0.1
+  flutter_neumorphic: ^3.2.0
+
 
 
 dev_dependencies:
